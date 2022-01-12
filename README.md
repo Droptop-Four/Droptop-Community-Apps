@@ -32,7 +32,7 @@
 <h2 align="center">HOW TO MAKE AN APP</h2>
  
 <p>
-  Check the guide on the <a href="https://github.com/Droptop-Four/Droptop-Community-Apps/blob/main/MAKE-AN-APP.md">MAKE-AN-APP.md file</a> or on the <a href="https://blacksquare88.wixsite.com/droptop4/creations">Droptop Four Website</a>.<br><br>
+  Check the guide on the <a href="https://github.com/66Bunz/Droptop-Community-Apps/blob/main/MAKE-AN-APP.md">MAKE-AN-APP.md file</a> or on the <a href="https://blacksquare88.wixsite.com/droptop4/creations">Droptop Four Website</a>.<br><br>
 </p>
 
 
@@ -41,7 +41,7 @@
 <h2 align="center">HOW TO SHARE AN APP</h2>
 
 <p>
-    Check the guide on the <a href="https://github.com/Droptop-Four/Droptop-Community-Apps/blob/main/SAHRE-AN-APP.md">SHARE-AN-APP.md file</a> or on the <a href="https://blacksquare88.wixsite.com/droptop4/creations">Droptop Four Website</a>.<br><br>
+    Check the guide on the <a href="https://github.com/66Bunz/Droptop-Community-Apps/blob/main/SAHRE-AN-APP.md">SHARE-AN-APP.md file</a> or on the <a href="https://blacksquare88.wixsite.com/droptop4/creations">Droptop Four Website</a>.<br><br>
 </p>
 
 
