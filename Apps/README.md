@@ -3,11 +3,6 @@ A folder to store all verified Droptop Community Apps
 
 ## Currently available Community Apps
 
-### Location - notAperson
-Shows your IP and location information.
-Version: 1.1.3  
-[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Location-notAperson) | [Source](https://github.com/notAperson535/Location-For-Droptop)
-
 ### Recycle Bin - Phanlock
 Displays the recycle bin. The bin icon will change depending on how much is in the recycle bin. Drag & drop to the icon to delete files.
 Version: 1.2.4  
