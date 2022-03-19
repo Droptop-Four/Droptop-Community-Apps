@@ -10,7 +10,7 @@ Version: 1.2.4
 
 ### Daily Quotes - Bunz
 Shows a series of quotes, updating daily. Cycles through a new quote every 20 seconds, or use the scroll wheel to cycle through them manually.
-Version: 1.0.5  
+Version: 1.0.6  
 [Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Daily_Quotes-Bunz) | [Source](https://github.com/66Bunz/DroptopFour-DailyQuotes)
 
 ### Disks - Phanlock
