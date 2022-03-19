@@ -50,4 +50,11 @@
     Repeat this step for any submenus you've created for your app. Go to <code>Folder\Icons\</code> and set the icons in the same way as you did in Step 9 for the folder number that corresponds to the position of that submenu in the dropdown menu.<br><br>
     <b>Step 11</b><br>
     Continue editing the <code>CustomApp.ini</code> until it meets the design you had in mind. When you're finished, proceed to compile and share your app with the world.<br><br>
+    <b>Built-in variables</b><br>
+    <ul>
+        <li><code>[#AppName-YourName]</code><br>Equals the slot number your app is in (equals 1, 2, or 3)</li>
+        <li><code>[#CustomAppID[#AppName-YourName]]</code><br>Equals the name of your app</li>
+        <li><code>[#CustomAppActiveID[#AppName-YourName[#HideAppCustomApp[#AppName-YourName]]]]</code><br>Equals the the name of your app only if your app is active - If not active, equals nothing.</li>
+        <li><code>[#HideAppCustomApp[#AppName-YourName]]</code><br>Equals 0 if your app is active - 1 if inactive.</li>
+    </ul>
 </p>
