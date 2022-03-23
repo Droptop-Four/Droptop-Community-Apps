@@ -24,21 +24,11 @@
 
 <p>
     <b>Step 1</b><br>
-    Go to <code>Documents\Rainmeter\Skins\Droptop Community Apps\Apps\</code>.<br><br>
+    If your app requires any special plugins, navigate to <code>App_Name-Your_Name\Plugins\</code> and move any 32-bit and 64-bit plugin .dll binaries to the <code>32bit</code> and <code>64bit</code> folders respectively.<br><br>
     <b>Step 2</b><br>
-    Delete all of the apps except the app you're sharing.<br><br>
+    Go to Droptop Settings >> Support >> Developer tools >> Generate .rsmkin >> Select your app.<br><br>
     <b>Step 3</b><br>
-    Right-click on the Rainmeter icon in the system tray. Select Manage >> Create <code>.rmskin</code> package.<br><br>
+    When the compiler is finished, an Explorer window will appear with your installable <code>.rmskin</code> package.<br><br>
     <b>Step 4</b><br>
-    Enter the name of your app, the author (your name), and a version number of your choice.<br><br>
-    <b>Step 5</b><br>
-    Select "Add skin..." and select "Droptop Community Apps" from the dropdown menu. Press "Add". If there are any plugins necessary for your app, select them with the "Add plugin..." button. Otherwise, select "Next". Under "After installation", keep the "Do nothing" button selected.<br><br>
-    <b>Step 6</b><br>
-    <strong>IMPORTANT</strong> - Go to the "Advanced" tab and check the "Merge skins" box. Make sure this box is selected.<br><br>
-    <b>Step 7</b><br>
-    Select "Create package". After a few seconds, a <code>.rmskin</code> file will be located on your desktop. This is the installer for your skin. When others install this package, your app will appear in their list of available custom apps.<br><br>
-    <b>Step 8</b><br>
-    Go back to the <code>Droptop Community Apps\Apps</code> folder. Press Ctrl+Z to get your other community apps back from the recycle bin.<br><br>
-    <b>Step 9</b><br>
     Share your creation on the Droptop Discord <a href="https://discord.gg/xGdEzpdzXk">#💻╏app-releases</a> channel.<br><br>
 </p>
