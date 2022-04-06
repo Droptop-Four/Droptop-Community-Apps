@@ -1,0 +1,1 @@
+Start-Process "~\Documents\Rainmeter\Skins\Droptop Community Apps\Apps\System_Monitor-Yaron\Scripts\Fix Usage Monitor.bat" -Verb runAs 
