@@ -1,3 +1,3 @@
 [Variables]
-ColorToggleFlip0=Horizontal
-ColorToggleFlip1=None
+ColorToggleFlip0=None
+ColorToggleFlip1=Horizontal
