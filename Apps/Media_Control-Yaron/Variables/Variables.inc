@@ -1,7 +1,7 @@
 [Variables]
 
 Skip=[SkipXSeconds]
-SkipXSeconds=10
+SkipXSeconds=15
 
 SoundControlOpacity=100
 SoundcontrolColour=#TopBarFontColor1#
@@ -13,3 +13,4 @@ DropdownMenuCutout=1
 MPHighlight=222,79,44
 
 
+=
