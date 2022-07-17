@@ -1,6 +1,6 @@
 [Variables]
 
-FeederRSSNum=5
+FeederRSSNum=3
 
 ;--------------------------
 
@@ -17,12 +17,6 @@ FeederBoxHeight6=(90*#DroptopSize#)
 FeederBoxHeight7=(105*#DroptopSize#)
 
 ;--------------------------
-
-FontName0=Proxima Nova Rg
-FontName1=Proxima Nova Rg
-
-DropdownItemHeight=(30*#DroptopSize#)
-DropdownItemPaddingY=0
 
 FeederXOffset=(400*#DroptopSize#)
 
@@ -119,53 +113,53 @@ DropdownItemHL.7=66,78,96
 
 ;-------------------------------
 
-FeederTitle1=A Recipe for Forgiveness                                                            
-FeederLink1=https://www.newyorker.com/culture/personal-history/a-recipe-for-forgiveness
-FeederDec1=My father was troubled, moody, and struggled with alcoholism. Making dinner for our family was what brought him back to us.                               
-FeederDate1=Sun, 17 Jul 2022
+FeederTitle1=The Attorneys General Racket                                                            
+FeederLink1=https://www.wsj.com/articles/the-attorneys-general-racket-daniel-cameron-national-association-of-attorneys-general-11657917818
+FeederDec1=A group of state AGs seem to have built an unaccountable litigation machine.                               
+FeederDate1=Fri, 15 Jul 2022
 
-FeederTitle2=Sunday Reading: The January 6th Hearings
-FeederLink2=https://www.newyorker.com/books/double-take/sunday-reading-the-january-6th-hearings
-FeederDec2=From the archive: a selection of pieces about these events unfolding in Washington.                                                                                                                               
-FeederDate2=Sun, 17 Jul 2022
+FeederTitle2=Can Biden Correct Obama's Mistakes in the Middle East?
+FeederLink2=https://www.wsj.com/articles/biden-saudi-arabia-visit-obama-israel-abbas-west-bank-john-kerry-iran-nuclear-deal-liberalism-russia-syria-11657913174
+FeederDec2=The opening to Iran, and the fiascoes in Libya and Syria, were devastating to U.S. credibility. But they brought Israel and its Arab neighbors closer together.                                                                                                                                 
+FeederDate2=Fri, 15 Jul 2022
 
-FeederTitle3=The Cryptic Crossword: Sunday, July 17, 2022
-FeederLink3=https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/07/17
-FeederDec3=Imagine losing one twisted puzzle (6).                                                 
-FeederDate3=Sat, 16 Jul 2022
+FeederTitle3=Elon Musk's Narrow Twitter Escape
+FeederLink3=https://www.wsj.com/articles/elon-musks-narrow-twitter-escape-social-media-acquisition-eletric-car-space-tesla-11657917894
+FeederDec3=His real businesses, Tesla and SpaceX, are likely to need his cash and attention in the months ahead.                                                   
+FeederDate3=Fri, 15 Jul 2022
 
-FeederTitle4=Biden Caters to Autocrats and Draws Battle Lines in the Middle East  
-FeederLink4=https://www.newyorker.com/news/daily-comment/biden-caters-to-autocrats-and-draws-battle-lines-in-the-middle-east
-FeederDec4=The President rallied Israel and key Arab nations as diplomacy on Iran’s nuclear program falters.                                                                                                                                                                                                
-FeederDate4=Sat, 16 Jul 2022
+FeederTitle4=Ruy Teixeira Gets Political Asylum  
+FeederLink4=https://www.wsj.com/articles/ruy-teixeira-gets-political-asylum-american-enterprise-institute-center-for-american-progress-robert-doar-11657919700
+FeederDec4=A lefty scholar leaves a progressive think tank for a conservative one.                                                                                                                                                                                                
+FeederDate4=Fri, 15 Jul 2022
 
-FeederTitle5=Is Abortion Sacred?     
-FeederLink5=https://www.newyorker.com/culture/essay/is-abortion-sacred
-FeederDec5=Abortion is often talked about as a grave act. But bringing a new life into the world can feel like the decision that more clearly risks being a moral mistake.                                             
+FeederTitle5=CPI Doesn't Capture the True Cost of Living in Trump Country     
+FeederLink5=https://www.wsj.com/articles/cpi-doesnt-capture-true-cost-of-living-trump-country-healthcare-housing-rental-inflation-prices-11657898754
+FeederDec5=Expenses have risen much faster for low- and middle-income families in the counties he carried.                                               
 FeederDate5=Fri, 15 Jul 2022
 
-FeederTitle6=Joe Manchin Plays the Role of Wrecker, Again
-FeederLink6=https://www.newyorker.com/news/our-columnists/joe-manchin-plays-the-role-of-wrecker-again
-FeederDec6=The senator from West Virginia delivered a crippling blow to what was left of Joe Biden’s climate-change agenda.                                      
-FeederDate6=Fri, 15 Jul 2022
+FeederTitle6=The Uvalde Shooting Videos and the Future of Policing
+FeederLink6=https://www.wsj.com/articles/the-uvalde-shooting-videos-future-policing-officers-swat-law-enforcement-mental-illness-11657832673
+FeederDec6=Two law-enforcement vets discuss the difficulties of mass-shooting responses and recruiting new cops.                                        
+FeederDate6=Thu, 14 Jul 2022
 
-FeederTitle7=One Moth’s Time to Shine
-FeederLink7=https://www.newyorker.com/humor/daily-shouts/one-moths-time-to-shine
-FeederDec7=It’s brutal out there.                          
+FeederTitle7=California Power Problems Hit Texas
+FeederLink7=https://www.wsj.com/articles/californiapowerproblems-hit-texas-blackouts-electricity-heat-wave-11657919178
+FeederDec7=Another state where unreliable renewable energy leads to power outages.                          
 FeederDate7=Fri, 15 Jul 2022
 
-FeederTitle8=How Not to Fight Inflation
+FeederTitle8=Will the GOP Abandon Ukraine?
 
-FeederLink8=https://www.newyorker.com/news/q-and-a/how-not-to-fight-inflation
-FeederDec8=Do the failures of Abenomics in Japan hold lessons for the United States?                          
+FeederLink8=https://www.wsj.com/articles/will-the-gop-abandon-ukraine-war-russia-arms-military-missile-biden-midterm-election-11657921767
+FeederDec8=Republican voters will support intelligently directed aid in the war against Russia.                          
 FeederDate8=Fri, 15 Jul 2022
 
-FeederTitle9=The Queer Children’s Books Targeted By the “Don’t Say Gay” Bill
-FeederLink9=https://www.newyorker.com/podcast/politics-and-more/the-queer-childrens-books-targeted-by-the-dont-say-gay-bill
-FeederDec9=Jessica Winter surveys a genre of literature that is being banned across the country, and considers what its removal from school libraries could mean for young people.                     
-FeederDate9=Fri, 15 Jul 2022
+FeederTitle9=The Political Agony of the Euro's Parity With the Dollar
+FeederLink9=https://www.wsj.com/articles/the-political-agony-of-the-euro-parity-dollar-union-brussels-italy-debt-policy-change-11657813435
+FeederDec9=The currency’s slide is an effect of a fundamental yet barely acknowledged change in its purpose.                     
+FeederDate9=Thu, 14 Jul 2022
 
-FeederTitle10=How to Eat a Sandwich
-FeederLink10=https://www.newyorker.com/humor/daily-shouts/how-to-eat-a-sandwich
-FeederDec10=When it comes to condiments, there are different schools of thought. Specifically, Mayo University and Arizona State.                
+FeederTitle10=Manchin's Tax Message to Democrats
+FeederLink10=https://www.wsj.com/articles/joe-manchins-tax-message-to-democrats-chuck-schumer-joint-committee-on-taxation-congress-build-back-better-bill-11657835900
+FeederDec10=Congress’s tax calculators reveal the high cost to all taxpayers of Build Back Smaller.                
 FeederDate10=Fri, 15 Jul 2022
