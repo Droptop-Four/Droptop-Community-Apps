@@ -1,6 +1,6 @@
 [Variables]
 
-FeederRSSNum=4
+FeederRSSNum=5
 
 ;--------------------------
 
@@ -119,55 +119,53 @@ DropdownItemHL.7=66,78,96
 
 ;-------------------------------
 
-PrevFeederTitle1=
-
-FeederTitle1=When is the right time to apply for a Canadian passport? Your questions answered                                                            
-FeederLink1=https://www.cbc.ca/news/canada/montreal/passport-application-karina-gould-answers-questions-1.6522095?cmp=rss
-FeederDec1=An official talks to people as they line up outside the Guy Favreau federal building while waiting to apply for a passport in Montreal, Sunday, June 26, 2022.                               
+FeederTitle1=A Recipe for Forgiveness                                                            
+FeederLink1=https://www.newyorker.com/culture/personal-history/a-recipe-for-forgiveness
+FeederDec1=My father was troubled, moody, and struggled with alcoholism. Making dinner for our family was what brought him back to us.                               
 FeederDate1=Sun, 17 Jul 2022
 
-FeederTitle2=Mental health experts say Canada needs a 3-digit suicide crisis hotline
-FeederLink2=https://www.cbc.ca/news/health/canada-three-digit-suicide-crisis-line-1.6523436?cmp=rss
-FeederDec2=A volunteer takes a call at the Crisis Centre B.C at their office in Vancouver, British Columbia on Wednesday, October 21, 2020.                                                                                                                             
-FeederDate2=Thu, 10 Sep 2020
+FeederTitle2=Sunday Reading: The January 6th Hearings
+FeederLink2=https://www.newyorker.com/books/double-take/sunday-reading-the-january-6th-hearings
+FeederDec2=From the archive: a selection of pieces about these events unfolding in Washington.                                                                                                                               
+FeederDate2=Sun, 17 Jul 2022
 
-FeederTitle3=I was a kid when the moratorium started. As a union leader, I'm still fighting for change
-FeederLink3=https://www.cbc.ca/news/canada/newfoundland-labrador/opinion-keith-sullivan-moratorium-1.6518201?cmp=rss
-FeederDec3=Keith Sullivan has been president of the Fish, Food and Allied Workers union since 2014. He says increases in value in the fisheries have helped increase the economic standing of many working in the industry.                                               
-FeederDate3=Sun, 17 Jul 2022
+FeederTitle3=The Cryptic Crossword: Sunday, July 17, 2022
+FeederLink3=https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/07/17
+FeederDec3=Imagine losing one twisted puzzle (6).                                                 
+FeederDate3=Sat, 16 Jul 2022
 
-FeederTitle4=Our life-jacket laws are archaic and need to be overhauled  
-FeederLink4=https://www.cbc.ca/news/canada/newfoundland-labrador/life-jacket-laws-gord-follett-opinion-1.6521484?cmp=rss
-FeederDec4=There are various types of PFDs on the market. Jeff Piercey of Port Rexton wears what most consider a ‘regular’ life-jacket.                                                                                                                                                                                                
+FeederTitle4=Biden Caters to Autocrats and Draws Battle Lines in the Middle East  
+FeederLink4=https://www.newyorker.com/news/daily-comment/biden-caters-to-autocrats-and-draws-battle-lines-in-the-middle-east
+FeederDec4=The President rallied Israel and key Arab nations as diplomacy on Iran’s nuclear program falters.                                                                                                                                                                                                
 FeederDate4=Sat, 16 Jul 2022
 
-FeederTitle5=Freeland says decision to exempt gas turbines from Russian sanctions 'difficult' but 'right thing to do'     
-FeederLink5=https://www.cbc.ca/news/politics/freeland-ukraine-turbine-decision-1.6523124?cmp=rss
-FeederDec5=Canada's Finance Minister Chrystia Freeland arrives for a meeting of G7 finance ministers on Thursday in Koenigswinter near Bonn, western Germany.                                           
-FeederDate5=Sat, 16 Jul 2022
+FeederTitle5=Is Abortion Sacred?     
+FeederLink5=https://www.newyorker.com/culture/essay/is-abortion-sacred
+FeederDec5=Abortion is often talked about as a grave act. But bringing a new life into the world can feel like the decision that more clearly risks being a moral mistake.                                             
+FeederDate5=Fri, 15 Jul 2022
 
-FeederTitle6=As the Atlantic Ocean warms, fisheries scramble to adapt
-FeederLink6=https://www.cbc.ca/radio/whatonearth/atlantic-ocean-fisheries-climate-1.6515491?cmp=rss
-FeederDec6=Eric Hesse has fished off the coast of Cape Cod for decades. Now, where he used to see cod, he sees more spiny dogfish.                                    
-FeederDate6=Sat, 16 Jul 2022
+FeederTitle6=Joe Manchin Plays the Role of Wrecker, Again
+FeederLink6=https://www.newyorker.com/news/our-columnists/joe-manchin-plays-the-role-of-wrecker-again
+FeederDec6=The senator from West Virginia delivered a crippling blow to what was left of Joe Biden’s climate-change agenda.                                      
+FeederDate6=Fri, 15 Jul 2022
 
-FeederTitle7=Lac Ste. Anne pilgrimage will be historic with papal visit, apology: Alexis Nakota Sioux Chief
-FeederLink7=https://www.cbc.ca/news/canada/edmonton/lac-ste-anne-pilgrimage-will-be-historic-with-papal-visit-apology-alexis-nakota-sioux-chief-1.6522586?cmp=rss
-FeederDec7=Chief Tony Alexis from Alexis Nakota Sioux Nation said this year's Lac Ste. Anne pilgrimage will be historic with Pope's visit and apology.                          
+FeederTitle7=One Moth’s Time to Shine
+FeederLink7=https://www.newyorker.com/humor/daily-shouts/one-moths-time-to-shine
+FeederDec7=It’s brutal out there.                          
 FeederDate7=Fri, 15 Jul 2022
 
-FeederTitle8=Doctor's appeal over right to pay for private health care dismissed by B.C. court
+FeederTitle8=How Not to Fight Inflation
 
-FeederLink8=https://www.cbc.ca/news/canada/british-columbia/cambie-surgeries-case-trial-court-of-appeal-judgment-1.6521746?cmp=rss
-FeederDec8=Dr. Brian Day says False Creek surgery's business model was dependent on government contracts and when those were pulled a sale was inevitable.                          
+FeederLink8=https://www.newyorker.com/news/q-and-a/how-not-to-fight-inflation
+FeederDec8=Do the failures of Abenomics in Japan hold lessons for the United States?                          
 FeederDate8=Fri, 15 Jul 2022
 
-FeederTitle9=2SLGBTQI+ agencies support North Bay, Ont., group that postponed drag show for youth over death threats
-FeederLink9=https://www.cbc.ca/news/canada/sudbury/national-lgbtq-agencies-support-outloud-northbay-1.6521776?cmp=rss
-FeederDec9=The operator of Outloud North Bay says they will soon be opening up a bigger space for LGBTQ youth. They recently renovated a 4,000 sq. ft. former nightclub to make room for the group, which has tripled its membership in the past year.                     
+FeederTitle9=The Queer Children’s Books Targeted By the “Don’t Say Gay” Bill
+FeederLink9=https://www.newyorker.com/podcast/politics-and-more/the-queer-childrens-books-targeted-by-the-dont-say-gay-bill
+FeederDec9=Jessica Winter surveys a genre of literature that is being banned across the country, and considers what its removal from school libraries could mean for young people.                     
 FeederDate9=Fri, 15 Jul 2022
 
-FeederTitle10=New book club in Hamilton to help inspire Black authors to write romance novels set in Canada
-FeederLink10=https://www.cbc.ca/news/canada/hamilton/hamilton-book-club-black-romance-1.6521902?cmp=rss
-FeederDec10=No data                
+FeederTitle10=How to Eat a Sandwich
+FeederLink10=https://www.newyorker.com/humor/daily-shouts/how-to-eat-a-sandwich
+FeederDec10=When it comes to condiments, there are different schools of thought. Specifically, Mayo University and Arizona State.                
 FeederDate10=Fri, 15 Jul 2022
