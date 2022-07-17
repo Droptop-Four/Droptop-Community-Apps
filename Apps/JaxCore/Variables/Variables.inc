@@ -1,2 +1,2 @@
 [Variables]
-DroptopIntegration=1
+DroptopIntegration=0
