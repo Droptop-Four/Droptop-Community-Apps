@@ -1,7 +1,8 @@
 [Variables]
 
-CommunityAppRunOnce=1
+CommunityAppRunOnce=0
 
 ; ----- Add/Modify your variables below: ----------------
 
-DroptopIntegration=0
+ColorToggleFlip0=None
+ColorToggleFlip1=Horizontal
