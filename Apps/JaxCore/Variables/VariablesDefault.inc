@@ -1,6 +1,6 @@
 [Variables]
 
-CommunityAppRunOnce=1
+CommunityAppRunOnce=0
 
 ; ----- Add/Modify your variables below: ----------------
 
