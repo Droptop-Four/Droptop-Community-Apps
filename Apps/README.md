@@ -31,3 +31,25 @@ Version: 1.3.3
 ### JaxCore - Jax
 Allows integration of Vallistart 3.0 with the Droptop home button, as well as shortcuts to YourMixer, QuickNotes, and Keylauncher from JaxCore. [!JaxCore and related modules required; Module download links included inside app.]  
 [Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/JaxCore-Jax)
+
+### Location - notAperson
+A simple app that shows you your IP and relative location  
+Version: 1.8   
+[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Location-notAperson) | [Source](https://github.com/notAperson535/Location-For-Droptop)
+
+### Color Mode Toggle - Cariboudjan
+On compatible themes, one-click toggle switching between dark mode and light mode.  
+Version: 2  
+[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Color_Mode_Toggle-Cariboudjan)
+
+### Feeder - Cariboudjan
+RSS Feeder for Lifehacker, Yahoo! News, Wall Street Journal, CBC News, The New Yorker, New York Times, and The Lincoln Project.  
+Version: 0.5  
+[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Feeder-Cariboudjan)
+
+### Search Bar - Mike Boynton
+Search the Internet with your choice of five search sites. Based on original code by JSMorley.  
+Version: 2.0  
+[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Search_Bar-Mike_Boynton) | [Source](https://github.com/papa-boynton/SearchBar-Mike_Boynton)
+
+
