@@ -10,15 +10,15 @@
 
 - [x] Disks
 
-- [x] QuickSettings
+- [x] Quick Settings
 
 - [x] System Monitor
 
-- [ ] Fluent Control Center
+- [ ] Fluent Control Center (Discontinued for now)
 
 - [x] JaxCore
 
-- [ ] Media Control
+- [x] Media Control
 
 - [x] Color Mode Toggle
 

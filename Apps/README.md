@@ -43,7 +43,7 @@ Allows integration of Vallistart 3.0 with the Droptop home button, as well as sh
 [Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/JaxCore-Jax)
 
 ### Media Control - Yaron
-Alernative media player.  
+Alternative WebNowPlaying media control center.Requires the WebNowPlaying extension for Chrome, Brave, Firefox, or Edge browsers.  
 Version: 1.1.0413  
 [Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Media_Control-Yaron) | [Source](https://github.com/Yaron2334/Media-Control)
 
