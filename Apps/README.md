@@ -13,12 +13,12 @@ A simple app that shows you your IP and relative location
 Version: 1.8   
 [Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Location-notAperson) | [Source](https://github.com/notAperson535/Location-For-Droptop)
 
-### Recycle Bin - Phanlock
+### Recycle Bin - Phan
 Displays the recycle bin. The bin icon will change depending on how much is in the recycle bin. Drag & drop to the icon to delete files.  
 Version: 1.2.4  
 [Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Recycle_Bin-Phanlock)
 
-### Disks - Phanlock
+### Disks - Phan
 Shortcuts of up to 5 disk drives and displays remaining gigabytes.  
 Version: 1.1.3  
 [Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Disks-Phanlock)
@@ -81,5 +81,3 @@ Version: 1.0
 RSS Feeder for Lifehacker, Yahoo! News, Wall Street Journal, CBC News, The New Yorker, New York Times, and The Lincoln Project.  
 Version: 0.5  
 [Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Feeder-Cariboudjan)
-
-

@@ -1,5 +1,3 @@
-
-
 - [ ] Sample App
 
 - [x] Daily Quotes
@@ -36,7 +34,11 @@
 
 
 
+
+
 17 CUSTOM APPS
+
+
 
 
 
@@ -52,14 +54,12 @@
 
 
 
-
-
 - Dire a cari come aggiornare le app:
-  
-  - prima di tutto clonare la repo finita
-  
-  - copiare e sostituire file
-  
-  - pushare i cambiamenti
-  
-  - 
+
+- prima di tutto clonare la repo finita
+
+- copiare e sostituire file
+
+- pushare i cambiamenti
+
+- 
