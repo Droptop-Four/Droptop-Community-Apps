@@ -1,37 +1,65 @@
+
+
+- [ ] Sample App
+
 - [x] Daily Quotes
 
 - [x] Location
 
 - [x] Recycle Bin
 
-- [x] Color Mode Toggle
-
-- [x] Feeder
-
-- [x] JaxCore
+- [x] Disks
 
 - [x] QuickSettings
-
-- [x] Sample App
 
 - [x] System Monitor
 
 - [ ] Fluent Control Center
 
-- [ ] Gradient Bar
+- [x] JaxCore
 
-- [ ] ~~Google Search~~
+- [ ] Media Control
 
-- [ ] ~~DuckDuckGo Search~~
+- [x] Color Mode Toggle
+
+- [x] Gradient Bar
 
 - [x] Search Bar
 
-- [ ] Shortcut
+- [x] Shortcut
 
-- [ ] Game Hub
+- [x] Game Hub
 
-- [ ] Random Theme Changer
+- [x] Random Theme Changer
 
-- [x] Disks
+- [x] Feeder
 
 
+
+17 CUSTOM APPS
+
+
+
+
+
+- [ ] ~~Google Search~~ ??
+
+- [ ] ~~DuckDuckGo Search~~ ??
+
+
+
+
+
+
+
+
+
+- Dire a cari come aggiornare le app:
+  
+  - prima di tutto clonare la repo finita
+  
+  - copiare e sostituire file
+  
+  - pushare i cambiamenti
+  
+  - 
