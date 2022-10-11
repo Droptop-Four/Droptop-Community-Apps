@@ -20,13 +20,13 @@ Version: 1.8
 
 Displays the recycle bin. The bin icon will change depending on how much is in the recycle bin. Drag & drop to the icon to delete files.  
 Version: 1.2.4  
-[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Recycle_Bin-Phanlock)
+[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Recycle_Bin-Phan)
 
 ### Disks - Phan
 
 Shortcuts of up to 5 disk drives and displays remaining gigabytes.  
 Version: 1.1.3  
-[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Disks-Phanlock)
+[Go to the folder](https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Disks-Phan)
 
 ### Quick Settings - Cariboudjan
 
