@@ -15,7 +15,7 @@
 
 <!-- DROPTOP SITE -->
 <p align="center">
-    <a href="https://blacksquare88.wixsite.com/droptop4/creations"><img
+    <a href="https://droptop-four.github.io/community-apps/"><img
             src="https://img.shields.io/static/v1?label=See+On&message=Droptop+Four+Website&color=50AE5C&style=for-the-badge" alt="See On Droptop Four Website"></a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p>
     <b>Step 1</b><br>
-    If your app requires any special plugins, navigate to <code>App_Name-Your_Name\Plugins\</code> and move any 32-bit and 64-bit plugin .dll binaries to the <code>32bit</code> and <code>64bit</code> folders respectively.<br><br>
+    If your app requires any special plugins, navigate to <code>App_Name-Your_Name\Plugins\</code> and move any 32-bit and 64-bit plugin <code>.dll</code> binaries to the <code>32bit</code> and <code>64bit</code> folders respectively inside of your app folder.<br><br>
     <b>Step 2</b><br>
     Go to Droptop Settings >> Support >> Developer tools >> Generate .rsmkin >> Select your app.<br><br>
     <b>Step 3</b><br>
