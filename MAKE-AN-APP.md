@@ -15,7 +15,7 @@
 
 <!-- DROPTOP SITE -->
 <p align="center">
-    <a href="https://blacksquare88.wixsite.com/droptop4/creations"><img
+    <a href="https://droptop-four.github.io/community-apps/"><img
             src="https://img.shields.io/static/v1?label=See+On&message=Droptop+Four+Website&color=50AE5C&style=for-the-badge" alt="See On Droptop Four Website"></a>
 </p>
 
