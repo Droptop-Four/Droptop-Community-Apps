@@ -9,13 +9,13 @@ CurrentItemX=#DropdownMenuWidth#
 CurrentItemY=#DropdownItemHeight#
 CurrentBoxX=#DropdownMenuWidth#
 CurrentFontSize=#DropdownItemFontSize#
-CurrentTheme=System Theme by Mike Boynton
+CurrentTheme=Transparent Theme
 
 hb=4
-OnOff=1
-OnOffText=On
+OnOff=0
+OnOffText=Off
 InfoOnOffText=Off
-NumBoxes=2
+NumBoxes=1
 RoundTo=1
 
 Name=Random Theme Changer
