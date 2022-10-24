@@ -6,4 +6,4 @@ disk3=E
 disk4=P
 disk5=Z
 
-NumberOfDisks=3
+NumberOfDisks=2

@@ -9,15 +9,15 @@ CurrentItemX=#DropdownMenuWidth#
 CurrentItemY=#DropdownItemHeight#
 CurrentBoxX=#DropdownMenuWidth#
 CurrentFontSize=#DropdownItemFontSize#
-CurrentTheme=Transparent Theme
+CurrentTheme=Macintosh Theme
 
-hb=4
+hb=22
 OnOff=0
-OnOffText=Off
+OnOffText=On
 InfoOnOffText=Off
 NumBoxes=1
 RoundTo=1
 
 Name=Random Theme Changer
 Author=Mike Boynton
-Version=1.0
+Version=1.1

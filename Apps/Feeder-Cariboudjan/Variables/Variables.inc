@@ -4,7 +4,7 @@ CommunityAppRunOnce=1
 
 ; ----- Add/Modify your variables below: ----------------
 
-FeederRSSNum=4
+FeederRSSNum=3
 
 ;--------------------------
 
@@ -13,11 +13,11 @@ FeederVersionNum=1.0
 ;--------------------------
 
 FeederBoxHeight1=(105*#DroptopSize#)
-FeederBoxHeight2=(60*#DroptopSize#)
-FeederBoxHeight3=(80*#DroptopSize#)
-FeederBoxHeight4=(90*#DroptopSize#)
-FeederBoxHeight5=(80*#DroptopSize#)
-FeederBoxHeight6=(90*#DroptopSize#)
+FeederBoxHeight2=(105*#DroptopSize#)
+FeederBoxHeight3=(105*#DroptopSize#)
+FeederBoxHeight4=(105*#DroptopSize#)
+FeederBoxHeight5=(105*#DroptopSize#)
+FeederBoxHeight6=(105*#DroptopSize#)
 FeederBoxHeight7=(105*#DroptopSize#)
 
 ;--------------------------
@@ -117,9 +117,9 @@ DropdownItemHL.7=66,78,96
 
 ;-------------------------------
 
-FeederTitle1=Canada not shifting to stretch supply of monkeypox vaccine yet                                                            
-FeederLink1=https://www.cbc.ca/news/health/monkeypox-vaccine-canada-outbreak-1.6549614?cmp=rss
-FeederDec1=A registered nurse prepares a dose of a Monkeypox vaccine at the Salt Lake County Health Department Thursday, July 28, 2022, in Salt Lake City. The countryâ€™s monkeypox outbreak can still be stopped, U.S. health officials said Thursday, despite rising case numbers and so-far limited vaccine supplies.(AP Photo/Rick Bowmer)              
+FeederTitle1=National handgun sales 'freeze' takes effect today                                                            
+FeederLink1=https://www.cbc.ca/news/politics/national-handgun-sales-freeze-1.6624653?cmp=rss
+FeederDec1=Three hand guns are displayed at a gun owner's home after Canada's government introduced legislation to implement a "national freeze" on the sale and purchase of handguns, as a part of a gun control package that would also limit magazine capacities and ban some toys that look like guns, in New Westminster, B.C.                
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
 
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
@@ -256,11 +256,11 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
 
 
                                
-FeederDate1=Fri, 12 Aug 2022
+FeederDate1=Fri, 21 Oct 2022
 
-FeederTitle2=Quilters from across Canada are stitching up blankets for Ontario women leaving homelessness
-FeederLink2=https://www.cbc.ca/news/canada/london/canadian-quilters-for-london-ontario-women-exiting-homelessness-1.6547188?cmp=rss
-FeederDec2=Michaelanne Hathaway is the owner of Stache Fabric and Notions located at 213 King St. in downtown London's historic Novacks building. She's rallying her community of customers to collectively sew quilts for My Sisters' Place in London.                                                                  
+FeederTitle2=New Alberta cabinet includes familiar faces in prominent portfolios
+FeederLink2=https://www.cbc.ca/news/canada/edmonton/alberta-united-conservative-party-government-cabinet-1.6625263?cmp=rss
+FeederDec2=Smith will will run in the Brooks-Medicine Hat byelection on Nov. 8.                                                                                                                            
 
 
 
@@ -321,11 +321,11 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
 
 
                                                                                                                                                                                        
-FeederDate2=Fri, 12 Aug 2022
+FeederDate2=Fri, 21 Oct 2022
 
-FeederTitle3=Calgary contractor uses AirTags to recover stolen construction materials
-FeederLink3=https://www.cbc.ca/news/canada/calgary/airtags-building-material-thefts-calgary-1.6549098?cmp=rss
-FeederDec3=Pierre Dumont owns Pierrefect Contracting Inc.            
+FeederTitle3=Woman's lawsuit alleges abuse in Winnipeg maternity home run by United Church of Canada
+FeederLink3=https://www.cbc.ca/news/canada/manitoba/united-church-canada-maternity-home-lawsuit-winnipeg-1.6622532?cmp=rss
+FeederDec3=Family together. mother holding child's hand, black and white; Shutterstock ID 209250001            
 
 
 
@@ -396,11 +396,11 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
 
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
                                                                                                                                                                                  
-FeederDate3=Fri, 12 Aug 2022
+FeederDate3=Fri, 21 Oct 2022
 
-FeederTitle4=Seniors in Nova Scotia apartment building fear they're being pushed out  
-FeederLink4=https://www.cbc.ca/news/canada/nova-scotia/seniors-bridgewater-frightened-drumlinhills-1.6545875?cmp=rss
-FeederDec4=David George Bryant, 90, says the new owners approach is backhanded. "Just presenting a form and saying, this is what we decide you're going to do, make your choice here and don't ask me what they are."
+FeederTitle4=Hockey Canada moved cash from fund used for sexual assault claims to avoid encouraging more claims: report  
+FeederLink4=https://www.cbc.ca/news/politics/hockey-canada-transfered-millions-out-of-controversial-fund-1.6624089?cmp=rss
+FeederDec4=A Hockey Canada logo is shown on the jersey of a player with Canada’s National Junior Team during a training camp practice in Calgary, Tuesday, Aug. 2, 2022.THE CANADIAN PRESS/Jeff McIntosh
 
 
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
@@ -445,11 +445,11 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
 
 
                                                                                                                                                                                         
-FeederDate4=Fri, 12 Aug 2022
+FeederDate4=Fri, 21 Oct 2022
 
-FeederTitle5=Quebec City police reopening probe into 2014 Gatineau Olympiques alleged group sexual assault, league says     
-FeederLink5=https://www.cbc.ca/news/politics/quebec-city-police-looking-at-reviewing-investigation-alleged-group-sex-assault-1.6549383?cmp=rss
-FeederDec5=The Gatineau Olympiques faced the Blainville-Boisbriand Armada Oct, 2, 2021 in the first game at Gatineau's new Centre Slush Puppie.                                               
+FeederTitle5=Alleged victims of disgraced senator frustrated by Red Chamber's reaction to criminal charges     
+FeederLink5=https://www.cbc.ca/news/politics/don-meredith-victims-alleged-sex-crimes-1.6623802?cmp=rss
+FeederDec5=Former senator Don Meredith seen during an interview in Toronto, Thursday, March 16, 2017.                                                 
 
 
 
@@ -464,16 +464,16 @@ FeederDec5=The Gatineau Olympiques faced the Blainville-Boisbriand Armada Oct, 2
 
 
                                                  
-FeederDate5=Fri, 12 Aug 2022
+FeederDate5=Fri, 21 Oct 2022
 
-FeederTitle6=Why financial incentives aren't enough to deal with health-care staffing shortages
-FeederLink6=https://www.cbc.ca/news/health/financial-perks-doctor-recruitment-1.6548194?cmp=rss
-FeederDec6=family doctor                                                                                                                     
-FeederDate6=Fri, 12 Aug 2022
+FeederTitle6=Most of the people N.B. quietly removed from its COVID death totals had the virus when they died
+FeederLink6=https://www.cbc.ca/news/canada/new-brunswick/covid-19-death-totals-new-brunswick-1.6624173?cmp=rss
+FeederDec6=A box of five BTNX’s Covid Rapid Test for home which is being handed out by pharmacies. Eligible British Columbians can get one box per month for free.                                                                                                                     
+FeederDate6=Fri, 21 Oct 2022
 
-FeederTitle7=Telus asks CRTC permission to add 1.5% credit card surcharge to customer bills
-FeederLink7=https://www.cbc.ca/news/business/telus-credit-card-bill-1.6548325?cmp=rss
-FeederDec7=A woman looks at her smartphone as she walks on a busy street in downtown Shanghai, September 25, 2013. Facebook Inc and Twitter face a daunting task in China, if access to their social networks is unblocked, as they would be up against deeply entrenched domestic rivals which cater to local needs and tastes. Access to Facebook and Twitter has been blocked in China since 2009, but will be lifted by the government in the Shanghai Free Trade Zone (FTZ) which is due to launch this weekend, the South China Morning Post reported on Tuesday - a move that has been popularly dubbed the "Internet Concession". REUTERS/Carlos Barria (CHINA - Tags: SCIENCE TECHNOLOGY POLITICS BUSINESS TELECOMS SOCIETY) - RTX13YRL                                                                                    
+FeederTitle7=Carly Rae Jepsen knows what it feels like to be lonely and taps into it for new album
+FeederLink7=https://www.cbc.ca/news/entertainment/carly-rae-jepsen-the-loneliest-time-1.6622272?cmp=rss
+FeederDec7=Carly Rae Jepsen performs on Day 1 of the Austin City Limits Music Festival's first weekend at Zilker Park on Friday, Oct. 7, 2022, in Austin, Texas. (Photo by Jack Plunkett/Invision/AP)                                                                                      
 
 
 
@@ -494,12 +494,12 @@ FeederDec7=A woman looks at her smartphone as she walks on a busy street in down
 
 
                                                                                                                                                 
-FeederDate7=Fri, 12 Aug 2022
+FeederDate7=Fri, 21 Oct 2022
 
-FeederTitle8=What does 'defunding the police' mean? N.B. university course will try to answer that question
+FeederTitle8=N.S. records 86 renoviction applications; advocates fear many others uncounted
 
-FeederLink8=https://www.cbc.ca/news/canada/new-brunswick/defunding-police-course-1.6548690?cmp=rss
-FeederDec8=Professor Sulaimon Giwa is the visiting Endowed Chair in Criminology and Criminal Justice at St. Thomas University in fall 2022.                                                                
+FeederLink8=https://www.cbc.ca/news/canada/nova-scotia/renovictions-statistics-residential-tenancies-act-eviction-1.6623111?cmp=rss
+FeederDec8=A unit is listed as "for rent" on this street in Forest Lawn.                                                                                                                          
 
 
 
@@ -530,11 +530,11 @@ FeederDec8=Professor Sulaimon Giwa is the visiting Endowed Chair in Criminology 
 
 
                           
-FeederDate8=Fri, 12 Aug 2022
+FeederDate8=Fri, 21 Oct 2022
 
-FeederTitle9=Union and workplace training programs push for more inclusion in 'lagging' auto industry
-FeederLink9=https://www.cbc.ca/news/canada/windsor/unifor-diversity-policy-windsor-workplace-1.6548879?cmp=rss
-FeederDec9=Workers arrive for their shift at the Chrysler (FCA) assembly plant.
+FeederTitle9=Toronto-area spa closes pools after customers complain of skin rashes, ear infections
+FeederLink9=https://www.cbc.ca/news/canada/toronto/whitby-ontario-spa-pool-closure-staph-infections-1.6624281?cmp=rss
+FeederDec9=No data  
 
 
 
@@ -543,11 +543,11 @@ FeederDec9=Workers arrive for their shift at the Chrysler (FCA) assembly plant.
 
 
                      
-FeederDate9=Fri, 12 Aug 2022
+FeederDate9=Thu, 20 Oct 2022
 
-FeederTitle10=Cabinet told of possible 'breakthrough' with protesters night before Emergencies Act was invoked
-FeederLink10=https://www.cbc.ca/news/politics/canada-cabinet-justin-trudeau-freedom-convoy-emergencies-act-court-documents-1.6548739?cmp=rss
-FeederDec10=Canadian police officers stand guard, as they work to restore normality to the capital while trucks and demonstrators continue to occupy the downtown core for more than three weeks to protest against pandemic restrictions in Ottawa, Ontario, Canada, February 19, 2022.  
+FeederTitle10=Former Canadian Nationalist Party leader Travis Patron sentenced to 1 year for promoting hatred against Jews
+FeederLink10=https://www.cbc.ca/news/canada/saskatoon/former-canadian-nationalist-party-leader-travis-patron-sentenced-to-1-year-for-promoting-hatred-against-jews-1.6623901?cmp=rss
+FeederDec10=A video featuring Travis Patron, leader of the Canadian Nationalist Party, is the subject of an RCMP investigation.                                                            
 
 
 
@@ -618,4 +618,4 @@ FeederDec10=Canadian police officers stand guard, as they work to restore normal
 
 
                 
-FeederDate10=Thu, 11 Aug 2022
+FeederDate10=Thu, 20 Oct 2022

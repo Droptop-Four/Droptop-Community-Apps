@@ -20,4 +20,4 @@ RoundTo=1
 
 Name=Random Theme Changer
 Author=Mike Boynton
-Version=1.0
+Version=1.1

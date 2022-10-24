@@ -5,6 +5,7 @@
 [Rainmeter]
 Group=[#CustomAppGroup[#CustomAppPosition]]
 LeftMouseDownAction=[]
+DynamicWindowSize=1
 
 DefaultSavePosition=1
 DefaultAlwaysOnTop=1
