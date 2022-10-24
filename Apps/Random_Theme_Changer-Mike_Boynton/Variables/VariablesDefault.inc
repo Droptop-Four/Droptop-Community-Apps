@@ -12,7 +12,7 @@ CurrentFontSize=#DropdownItemFontSize#
 CurrentTheme=System Theme by Mike Boynton
 
 hb=4
-OnOff=1
+OnOff=0
 OnOffText=On
 InfoOnOffText=Off
 NumBoxes=2

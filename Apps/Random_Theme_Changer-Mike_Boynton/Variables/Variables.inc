@@ -9,13 +9,13 @@ CurrentItemX=#DropdownMenuWidth#
 CurrentItemY=#DropdownItemHeight#
 CurrentBoxX=#DropdownMenuWidth#
 CurrentFontSize=#DropdownItemFontSize#
-CurrentTheme=Macintosh Theme
+CurrentTheme=Code Theme by Phan
 
 hb=22
 OnOff=0
 OnOffText=On
 InfoOnOffText=Off
-NumBoxes=1
+NumBoxes=2
 RoundTo=1
 
 Name=Random Theme Changer
