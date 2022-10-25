@@ -9,11 +9,11 @@ CurrentItemX=#DropdownMenuWidth#
 CurrentItemY=#DropdownItemHeight#
 CurrentBoxX=#DropdownMenuWidth#
 CurrentFontSize=#DropdownItemFontSize#
-CurrentTheme=Code Theme by Phan
+CurrentTheme=Color Match Theme
 
-hb=22
+hb=4
 OnOff=0
-OnOffText=On
+OnOffText=Hide
 InfoOnOffText=Off
 NumBoxes=2
 RoundTo=1
