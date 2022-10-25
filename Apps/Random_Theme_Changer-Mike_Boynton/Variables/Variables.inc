@@ -9,11 +9,11 @@ CurrentItemX=#DropdownMenuWidth#
 CurrentItemY=#DropdownItemHeight#
 CurrentBoxX=#DropdownMenuWidth#
 CurrentFontSize=#DropdownItemFontSize#
-CurrentTheme=Color Match Theme
+CurrentTheme=System Theme by Mike Boynton
 
 hb=4
 OnOff=0
-OnOffText=Hide
+OnOffText=On
 InfoOnOffText=Off
 NumBoxes=2
 RoundTo=1
