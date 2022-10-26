@@ -117,9 +117,9 @@ DropdownItemHL.7=66,78,96
 
 ;-------------------------------
 
-FeederTitle1=National handgun sales 'freeze' takes effect today                                                            
-FeederLink1=https://www.cbc.ca/news/politics/national-handgun-sales-freeze-1.6624653?cmp=rss
-FeederDec1=Three hand guns are displayed at a gun owner's home after Canada's government introduced legislation to implement a "national freeze" on the sale and purchase of handguns, as a part of a gun control package that would also limit magazine capacities and ban some toys that look like guns, in New Westminster, B.C.                
+FeederTitle1=Joe Manchin Can Stop a Partisan Energy Takeover at the FERC                                                            
+FeederLink1=https://www.wsj.com/articles/joe-manchin-energy-price-cost-heat-ferc-bipartisan-biden-richard-glick-winter-europe-shortage-hydropower-oil-lng-11666813595
+FeederDec1=A Democratic supermajority would aid Biden’s efforts to stop critical infrastructure.                
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
 
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
@@ -256,11 +256,11 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
 
 
                                
-FeederDate1=Fri, 21 Oct 2022
+FeederDate1=Wed, 26 Oct 2022
 
-FeederTitle2=New Alberta cabinet includes familiar faces in prominent portfolios
-FeederLink2=https://www.cbc.ca/news/canada/edmonton/alberta-united-conservative-party-government-cabinet-1.6625263?cmp=rss
-FeederDec2=Smith will will run in the Brooks-Medicine Hat byelection on Nov. 8.                                                                                                                            
+FeederTitle2=Why Democrats Are Losing The Midterms
+FeederLink2=https://www.wsj.com/articles/why-democrats-are-losing-john-fetterman-mehmet-oz-fracking-pennsylvania-far-left-u-s-senate-11666821289
+FeederDec2=With Trump out of the spotlight, voters are focusing on how far left the Democratic Party has turned.                                                                                                                            
 
 
 
@@ -321,11 +321,11 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
 
 
                                                                                                                                                                                        
-FeederDate2=Fri, 21 Oct 2022
+FeederDate2=Wed, 26 Oct 2022
 
-FeederTitle3=Woman's lawsuit alleges abuse in Winnipeg maternity home run by United Church of Canada
-FeederLink3=https://www.cbc.ca/news/canada/manitoba/united-church-canada-maternity-home-lawsuit-winnipeg-1.6622532?cmp=rss
-FeederDec3=Family together. mother holding child's hand, black and white; Shutterstock ID 209250001            
+FeederTitle3=John Fetterman: The Midterms' October Surprise
+FeederLink3=https://www.wsj.com/articles/midterms-october-surprise-john-fetterman-pennsylvania-oz-fracking-stroke-fitness-debate-new-york-hochul-zeldin-crime-11666814874
+FeederDec3=By withholding crucial information about his health, the candidate has likely ensured a GOP Senate win in Pennsylvania.            
 
 
 
@@ -396,11 +396,11 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
 
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
                                                                                                                                                                                  
-FeederDate3=Fri, 21 Oct 2022
+FeederDate3=Wed, 26 Oct 2022
 
-FeederTitle4=Hockey Canada moved cash from fund used for sexual assault claims to avoid encouraging more claims: report  
-FeederLink4=https://www.cbc.ca/news/politics/hockey-canada-transfered-millions-out-of-controversial-fund-1.6624089?cmp=rss
-FeederDec4=A Hockey Canada logo is shown on the jersey of a player with Canada’s National Junior Team during a training camp practice in Calgary, Tuesday, Aug. 2, 2022.THE CANADIAN PRESS/Jeff McIntosh
+FeederTitle4=Biden's Losing Midterm Message for Democrats  
+FeederLink4=https://www.wsj.com/articles/biden-losing-democrats-campaigning-abortion-inflation-reduction-act-priority-economy-approval-rating-deficit-midterm-11666808216
+FeederDec4=He boasts about the economy and declares that abortion is his top priority.
 
 
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
@@ -445,11 +445,11 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
 
 
                                                                                                                                                                                         
-FeederDate4=Fri, 21 Oct 2022
+FeederDate4=Wed, 26 Oct 2022
 
-FeederTitle5=Alleged victims of disgraced senator frustrated by Red Chamber's reaction to criminal charges     
-FeederLink5=https://www.cbc.ca/news/politics/don-meredith-victims-alleged-sex-crimes-1.6623802?cmp=rss
-FeederDec5=Former senator Don Meredith seen during an interview in Toronto, Thursday, March 16, 2017.                                                 
+FeederTitle5=California's Corporate Exodus     
+FeederLink5=https://www.wsj.com/articles/californias-corporate-exodus-business-flight-gavin-newsom-lee-ohanian-joseph-vranich-hoover-institution-11666789943
+FeederDec5=A new report documents the accelerating business flight from the state.                                                 
 
 
 
@@ -464,16 +464,16 @@ FeederDec5=Former senator Don Meredith seen during an interview in Toronto, Thur
 
 
                                                  
-FeederDate5=Fri, 21 Oct 2022
+FeederDate5=Wed, 26 Oct 2022
 
-FeederTitle6=Most of the people N.B. quietly removed from its COVID death totals had the virus when they died
-FeederLink6=https://www.cbc.ca/news/canada/new-brunswick/covid-19-death-totals-new-brunswick-1.6624173?cmp=rss
-FeederDec6=A box of five BTNX’s Covid Rapid Test for home which is being handed out by pharmacies. Eligible British Columbians can get one box per month for free.                                                                                                                     
-FeederDate6=Fri, 21 Oct 2022
+FeederTitle6=The GOP's 2022 Midterm Slate Is More Diverse Than Ever
+FeederLink6=https://www.wsj.com/articles/black-republican-congressman-midterms-election-voter-turnout-diversity-candidates-gop-11666706422
+FeederDec6=What do you call a black Republican? How about ‘Congressman’?                                                                                                                     
+FeederDate6=Tue, 25 Oct 2022
 
-FeederTitle7=Carly Rae Jepsen knows what it feels like to be lonely and taps into it for new album
-FeederLink7=https://www.cbc.ca/news/entertainment/carly-rae-jepsen-the-loneliest-time-1.6622272?cmp=rss
-FeederDec7=Carly Rae Jepsen performs on Day 1 of the Austin City Limits Music Festival's first weekend at Zilker Park on Friday, Oct. 7, 2022, in Austin, Texas. (Photo by Jack Plunkett/Invision/AP)                                                                                      
+FeederTitle7=Gary Gensler's Bad Performance Review
+FeederLink7=https://www.wsj.com/articles/gary-genslers-bad-performance-review-sec-inspector-general-rulemaking-11666719584
+FeederDec7=The SEC Chair’s furious rule-making pace is damaging the agency.                                                                                      
 
 
 
@@ -494,12 +494,12 @@ FeederDec7=Carly Rae Jepsen performs on Day 1 of the Austin City Limits Music Fe
 
 
                                                                                                                                                 
-FeederDate7=Fri, 21 Oct 2022
+FeederDate7=Wed, 26 Oct 2022
 
-FeederTitle8=N.S. records 86 renoviction applications; advocates fear many others uncounted
+FeederTitle8=Citizenship Is Essential to Voting
 
-FeederLink8=https://www.cbc.ca/news/canada/nova-scotia/renovictions-statistics-residential-tenancies-act-eviction-1.6623111?cmp=rss
-FeederDec8=A unit is listed as "for rent" on this street in Forest Lawn.                                                                                                                          
+FeederLink8=https://www.wsj.com/articles/citizenship-voting-law-illegal-aliens-noncitizens-immigrant-louisiana-ohio-constitution-washington-dc-new-york-election-integrity-11666786183
+FeederDec8=Two states consider enshrining that idea in their constitutions.                                                                                                                          
 
 
 
@@ -530,11 +530,11 @@ FeederDec8=A unit is listed as "for rent" on this street in Forest Lawn.
 
 
                           
-FeederDate8=Fri, 21 Oct 2022
+FeederDate8=Wed, 26 Oct 2022
 
-FeederTitle9=Toronto-area spa closes pools after customers complain of skin rashes, ear infections
-FeederLink9=https://www.cbc.ca/news/canada/toronto/whitby-ontario-spa-pool-closure-staph-infections-1.6624281?cmp=rss
-FeederDec9=No data  
+FeederTitle9=Special Counsel John Durham Discredits the Press
+FeederLink9=https://www.wsj.com/articles/durham-discredits-the-press-fbi-investigation-media-lying-trump-falsified-evidence-collusion-leak-illegal-informant-11666729641
+FeederDec9=The way back to sanity for America is for the media to rediscover its interest in truth.  
 
 
 
@@ -543,11 +543,11 @@ FeederDec9=No data
 
 
                      
-FeederDate9=Thu, 20 Oct 2022
+FeederDate9=Tue, 25 Oct 2022
 
-FeederTitle10=Former Canadian Nationalist Party leader Travis Patron sentenced to 1 year for promoting hatred against Jews
-FeederLink10=https://www.cbc.ca/news/canada/saskatoon/former-canadian-nationalist-party-leader-travis-patron-sentenced-to-1-year-for-promoting-hatred-against-jews-1.6623901?cmp=rss
-FeederDec10=A video featuring Travis Patron, leader of the Canadian Nationalist Party, is the subject of an RCMP investigation.                                                            
+FeederTitle10=Call Them the Biden-Trump Tariffs Now
+FeederLink10=https://www.wsj.com/articles/call-them-the-biden-trump-tariffs-now-section-232-aluminum-steel-tariffs-beverage-manufacturers-11666721317
+FeederDec10=U.S. beverage makers and consumers continue to pay for tariffs on aluminum that the President won’t lift.                                                            
 
 
 
@@ -618,4 +618,4 @@ FeederDec10=A video featuring Travis Patron, leader of the Canadian Nationalist 
 
 
                 
-FeederDate10=Thu, 20 Oct 2022
+FeederDate10=Wed, 26 Oct 2022
