@@ -50,3 +50,4 @@ GameHub.Greyscale=0
 GameHub.MenuWidth=((([#GameHub.WidthImage[#GameHub.WHImageNum]]-(#DropdownMenuCutout#*2))*3)+16)
 
 GameHub.VariablesLocation=#SKINSPATH#Droptop Community Apps\Apps\Game_Hub-Phan\Variables\Variables.inc
+CommunityAppRunOnce=1
