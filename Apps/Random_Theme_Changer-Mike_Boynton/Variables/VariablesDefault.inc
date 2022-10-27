@@ -9,7 +9,7 @@ CurrentItemX=#DropdownMenuWidth#
 CurrentItemY=#DropdownItemHeight#
 CurrentBoxX=#DropdownMenuWidth#
 CurrentFontSize=#DropdownItemFontSize#
-CurrentTheme=System Theme by Mike Boynton
+CurrentTheme=[#ThemeName[#ThemeNum]]
 
 hb=4
 OnOff=0

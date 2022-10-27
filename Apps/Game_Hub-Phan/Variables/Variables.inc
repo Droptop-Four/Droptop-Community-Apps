@@ -29,7 +29,8 @@ Box10Image=10
 Box11Image=11
 Box12Image=12
 
-GameHub.Boxes=9
+GameHub.RowsOfBoxes=3
+GameHub.Boxes=3
 
 GameHub.ImageScaleNum=1
 GameHub.ImageScale1=150
