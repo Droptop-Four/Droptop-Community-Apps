@@ -1,5 +1,5 @@
 [Variables]
-NumberOfShortcuts=5
+Shortcut.NumberOfShortcuts=5
 
 PathShortcutButton1=["C:\"]
 PathShortcutButton2=["%USERPROFILE%\Documents"]
@@ -19,6 +19,8 @@ ShortcutButton3=3
 ShortcutButton4=4
 ShortcutButton5=5
 
-ShotcutButtonCustomAppNum=#Shortcut-Phan#
+ShortcutButtonCustomAppNum=#Shortcut-Phan#
 CurrentShortcut=1
 QuickLinkMode=0
+
+Shortcut.Greyscale=0
