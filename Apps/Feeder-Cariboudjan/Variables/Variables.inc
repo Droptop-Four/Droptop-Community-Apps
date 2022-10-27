@@ -4,7 +4,7 @@ CommunityAppRunOnce=1
 
 ; ----- Add/Modify your variables below: ----------------
 
-FeederRSSNum=3
+FeederRSSNum=5
 
 ;--------------------------
 
@@ -117,9 +117,9 @@ DropdownItemHL.7=66,78,96
 
 ;-------------------------------
 
-FeederTitle1=Joe Manchin Can Stop a Partisan Energy Takeover at the FERC                                                            
-FeederLink1=https://www.wsj.com/articles/joe-manchin-energy-price-cost-heat-ferc-bipartisan-biden-richard-glick-winter-europe-shortage-hydropower-oil-lng-11666813595
-FeederDec1=A Democratic supermajority would aid Biden’s efforts to stop critical infrastructure.                
+FeederTitle1=Mike Davis Could See the Future                                                            
+FeederLink1=https://www.newyorker.com/news/postscript/mike-davis-could-see-the-future
+FeederDec1=Often misread as a “prophet of doom,” the Marxist historian was actually an optimist and a dreamer.                
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
 
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
@@ -258,9 +258,9 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
                                
 FeederDate1=Wed, 26 Oct 2022
 
-FeederTitle2=Why Democrats Are Losing The Midterms
-FeederLink2=https://www.wsj.com/articles/why-democrats-are-losing-john-fetterman-mehmet-oz-fracking-pennsylvania-far-left-u-s-senate-11666821289
-FeederDec2=With Trump out of the spotlight, voters are focusing on how far left the Democratic Party has turned.                                                                                                                            
+FeederTitle2=What to Make of John Fetterman’s Struggles at the Pennsylvania Senate Debate
+FeederLink2=https://www.newyorker.com/news/the-political-scene/what-to-make-of-john-fettermans-struggles-at-the-pennsylvania-senate-debate
+FeederDec2=The cognitive effects of the Democratic candidate’s recent stroke were evident as he faced off against Mehmet Oz. Will his performance imperil his party’s chances?                                                                                                                            
 
 
 
@@ -323,9 +323,9 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
                                                                                                                                                                                        
 FeederDate2=Wed, 26 Oct 2022
 
-FeederTitle3=John Fetterman: The Midterms' October Surprise
-FeederLink3=https://www.wsj.com/articles/midterms-october-surprise-john-fetterman-pennsylvania-oz-fracking-stroke-fitness-debate-new-york-hochul-zeldin-crime-11666814874
-FeederDec3=By withholding crucial information about his health, the candidate has likely ensured a GOP Senate win in Pennsylvania.            
+FeederTitle3=The Best Books of 2022 So Far
+FeederLink3=https://www.newyorker.com/best-books-2022
+FeederDec3=Reviews of the year’s notable new fiction, poetry, and nonfiction.                                                        
 
 
 
@@ -398,9 +398,9 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
                                                                                                                                                                                  
 FeederDate3=Wed, 26 Oct 2022
 
-FeederTitle4=Biden's Losing Midterm Message for Democrats  
-FeederLink4=https://www.wsj.com/articles/biden-losing-democrats-campaigning-abortion-inflation-reduction-act-priority-economy-approval-rating-deficit-midterm-11666808216
-FeederDec4=He boasts about the economy and declares that abortion is his top priority.
+FeederTitle4=The United States’ Unamendable Constitution  
+FeederLink4=https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution
+FeederDec4=How our inability to change America’s most important document is deforming our politics and government.                        
 
 
 Angela Chalmers woke up to the sound of her dog growling shortly before 7 the morning of June 18. She found a stranger sleeping on her couch and called 911, but waited twenty minutes for them to arrive.
@@ -447,9 +447,9 @@ Angela Chalmers woke up to the sound of her dog growling shortly before 7 the mo
                                                                                                                                                                                         
 FeederDate4=Wed, 26 Oct 2022
 
-FeederTitle5=California's Corporate Exodus     
-FeederLink5=https://www.wsj.com/articles/californias-corporate-exodus-business-flight-gavin-newsom-lee-ohanian-joseph-vranich-hoover-institution-11666789943
-FeederDec5=A new report documents the accelerating business flight from the state.                                                 
+FeederTitle5=Polls Suggest the Battle for the Senate Is Still a Cliffhanger     
+FeederLink5=https://www.newyorker.com/news/our-columnists/polls-suggest-the-battle-for-the-senate-is-still-a-cliffhanger
+FeederDec5=Recent surveys show a shift to Republicans, but in the key battleground states the outcomes remain highly uncertain.                                                 
 
 
 
@@ -464,16 +464,16 @@ FeederDec5=A new report documents the accelerating business flight from the stat
 
 
                                                  
-FeederDate5=Wed, 26 Oct 2022
+FeederDate5=Tue, 25 Oct 2022
 
-FeederTitle6=The GOP's 2022 Midterm Slate Is More Diverse Than Ever
-FeederLink6=https://www.wsj.com/articles/black-republican-congressman-midterms-election-voter-turnout-diversity-candidates-gop-11666706422
-FeederDec6=What do you call a black Republican? How about ‘Congressman’?                                                                                                                     
+FeederTitle6=The Deer Who Lived Upstairs
+FeederLink6=https://www.newyorker.com/news/afterword/the-deer-who-lived-upstairs
+FeederDec6=Dillie, a whitetail from Ohio, defied many expectations during her unexpectedly long life.                                                                                                                                                                                         
 FeederDate6=Tue, 25 Oct 2022
 
-FeederTitle7=Gary Gensler's Bad Performance Review
-FeederLink7=https://www.wsj.com/articles/gary-genslers-bad-performance-review-sec-inspector-general-rulemaking-11666719584
-FeederDec7=The SEC Chair’s furious rule-making pace is damaging the agency.                                                                                      
+FeederTitle7=Daily Cartoon: Tuesday, October 25th
+FeederLink7=https://www.newyorker.com/cartoons/daily-cartoon/tuesday-october-25th-cinderella-coat
+FeederDec7=“Could you also make me a transitional coat?”                                                                                                              
 
 
 
@@ -494,12 +494,12 @@ FeederDec7=The SEC Chair’s furious rule-making pace is damaging the agency.
 
 
                                                                                                                                                 
-FeederDate7=Wed, 26 Oct 2022
+FeederDate7=Tue, 25 Oct 2022
 
-FeederTitle8=Citizenship Is Essential to Voting
+FeederTitle8=The G.O.P.’s Big-City Scare Tactics
 
-FeederLink8=https://www.wsj.com/articles/citizenship-voting-law-illegal-aliens-noncitizens-immigrant-louisiana-ohio-constitution-washington-dc-new-york-election-integrity-11666786183
-FeederDec8=Two states consider enshrining that idea in their constitutions.                                                                                                                          
+FeederLink8=https://www.newyorker.com/news/daily-comment/the-gops-big-city-scare-tactics
+FeederDec8=Nationwide, Republicans are portraying Democratics as soft on crime. It’s a well-worn strategy, but can a candidate for governor of Illinois win by calling Chicago a “hellhole”?                                                                                                                                                                      
 
 
 
@@ -530,11 +530,11 @@ FeederDec8=Two states consider enshrining that idea in their constitutions.
 
 
                           
-FeederDate8=Wed, 26 Oct 2022
+FeederDate8=Tue, 25 Oct 2022
 
-FeederTitle9=Special Counsel John Durham Discredits the Press
-FeederLink9=https://www.wsj.com/articles/durham-discredits-the-press-fbi-investigation-media-lying-trump-falsified-evidence-collusion-leak-illegal-informant-11666729641
-FeederDec9=The way back to sanity for America is for the media to rediscover its interest in truth.  
+FeederTitle9=Script of Every Movie Set in Boston
+FeederLink9=https://www.newyorker.com/humor/daily-shouts/script-of-every-movie-set-in-boston
+FeederDec9=At a bar, Matt Damon and one of the Afflecks (the one you like less) both order a Sam Adams, the only beer legally allowed to be served on tap in Massachusetts.  
 
 
 
@@ -545,9 +545,9 @@ FeederDec9=The way back to sanity for America is for the media to rediscover its
                      
 FeederDate9=Tue, 25 Oct 2022
 
-FeederTitle10=Call Them the Biden-Trump Tariffs Now
-FeederLink10=https://www.wsj.com/articles/call-them-the-biden-trump-tariffs-now-section-232-aluminum-steel-tariffs-beverage-manufacturers-11666721317
-FeederDec10=U.S. beverage makers and consumers continue to pay for tariffs on aluminum that the President won’t lift.                                                            
+FeederTitle10=“The Novelist’s Film,” Reviewed: A Drama of Artistic Crisis from a Wildly Prolific Director
+FeederLink10=https://www.newyorker.com/culture/the-front-row/the-novelists-film-reviewed-a-drama-of-artistic-crisis-from-a-wildly-prolific-director
+FeederDec10=In Hong Sangsoo’s latest, a blocked writer tries to relaunch herself as a filmmaker.                                                                                                        
 
 
 
@@ -618,4 +618,4 @@ FeederDec10=U.S. beverage makers and consumers continue to pay for tariffs on al
 
 
                 
-FeederDate10=Wed, 26 Oct 2022
+FeederDate10=Mon, 24 Oct 2022

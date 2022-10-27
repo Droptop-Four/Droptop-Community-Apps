@@ -1,2 +1,3 @@
 [Variables]
 
+CommunityAppRunOnce=1
