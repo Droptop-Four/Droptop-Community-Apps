@@ -4,7 +4,7 @@
 <br />
 <p align="center">
     <a href="https://droptopfour.com">
-        <img src="https://user-images.githubusercontent.com/66331265/143691398-b730e847-00dc-4e43-8b87-d066cbd6407d.png"
+        <img src="https://user-images.githubusercontent.com/66331265/229708672-c7d87ba1-5493-4269-8740-0cee867dd1ab.png"
             alt="Logo"  style='height: 100%; width: 100%; object-fit: contain'>
     </a>
 </p>
