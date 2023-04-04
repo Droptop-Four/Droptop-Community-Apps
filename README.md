@@ -14,7 +14,7 @@
 
 <!-- DROPTOP SITE -->
 <p align="center">
-    <a href="https://droptop-four.github.io/community-apps/"><img
+    <a href="https://droptopfour.com/community-apps/"><img
             src="https://img.shields.io/static/v1?label=See+On&message=Droptop+Four+Website&color=50AE5C&style=for-the-badge" alt="See On Droptop Four Website"></a>
 </p>
 
@@ -27,21 +27,21 @@
 <h2 align="center">APPS</h2>
 
 <p>
-    To see all the available apps take a look at the <a href="https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps">Apps folder</a><br><br>
+    To see all the available apps take a look at the <a href="https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps">Apps folder</a> or on the <a href="https://www.droptopfour.com/community-apps/">website</a><br><br>
 </p>
 
 <!-- APP CREATION -->
 <h2 align="center">HOW TO MAKE AN APP</h2>
  
 <p>
-  Check the guide on the <a href="https://github.com/Droptop-Four/Droptop-Community-Apps/blob/main/MAKE-AN-APP.md">MAKE-AN-APP.md file</a> or on the <a href="https://droptop-four.github.io/community-apps/create-an-app.html">Droptop Four Website</a>.<br><br>
+  Check the guide on the <a href="https://github.com/Droptop-Four/Droptop-Community-Apps/blob/main/MAKE-AN-APP.md">MAKE-AN-APP.md file</a> or on the <a href="https://www.droptopfour.com/community-apps/create-an-app.html#make-an-app">Droptop Four Website</a>.<br><br>
 </p>
 
 <!-- APP SHARE -->
 <h2 align="center">HOW TO SHARE AN APP</h2>
 
 <p>
-    Check the guide on the <a href="https://github.com/Droptop-Four/Droptop-Community-Apps/blob/main/SHARE-AN-APP.md">SHARE-AN-APP.md file</a> or on the <a href="https://droptop-four.github.io/community-apps/create-an-app.html">Droptop Four Website</a>.<br><br>
+    Check the guide on the <a href="https://github.com/Droptop-Four/Droptop-Community-Apps/blob/main/SHARE-AN-APP.md">SHARE-AN-APP.md file</a> or on the <a href="https://www.droptopfour.com/community-apps/create-an-app.html#share-an-app">Droptop Four Website</a>.<br><br>
 </p>
 
 <!-- DROPTOPFOUR DISCORD -->
